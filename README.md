@@ -8,11 +8,9 @@ El programa usa una calidad de  1920x1080 por lo que es necesario que cuentes co
 
 El programa utiliza python 3.11 por lo que es necesario usar esta version ya que tambien el pyrealsense2 solo es soportado hasta python3.11
 
-Reomenadiones
+**Recomendaciones**
   
-  Para instalar o correr el porgrama (si cuentas con las dos versiones de python, la mas actualizada y la 3.11) para 
-  
-  iniciar el poryecto es necesario escribir el siguiente comando
+  Para instalar o correr el porgrama (si cuentas con las dos versiones de python, la mas actualizada y la 3.11) para iniciar el poryecto es necesario escribir el siguiente comando
     
     py -3.11 -m pip install pyrealsense2  
    

@@ -1,10 +1,10 @@
-# Face-Detection-with-Intel-D435i #
-Facial recognition with the Intel Realsense D435i Depth Camera. The main code for this project is a derivation of that found on the official Intel Realsense repositoy: https://github.com/IntelRealSense/librealsense
-
-## To begin... ##
-* Install pyrealsense2 using the directions stated on the librealsense repository:  https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python
-
-* I had librealsense installed for python 2.7.
-* Once installed, run the python script using "python realsense_face_detection.py" with the model files (deploy.prototxt.txt and res10_300x300_ssd_iter_140000.caffemodel) in the same directory. 
-## To end.... ##
-* You now have a facial recognition solution using the Intel Realsense D435i (or any 400 series I believe) depth camera.
+Deteccion de rostro basado en el proyecto (**https://github.com/AMOZINGAS/DeteccionRostroRec.git**)
+Se modifico dicho poryecto para usar la camara y grabar los frames donde aparece un rostro
+Este programa guarda archivos .vin de los frames donde se encontraron rostros, ademas agrega a un txt los segundos donde aparecieron rostros
+El programa usa una calidad de  1920x1080 por lo que es necesario que cuentes con un puerto USB 3
+El programa utiliza python 3.11 por lo que es necesario usar esta version ya que tambien el pyrealsense2 solo es soportado hasta python3.11
+Reomenadiones
+  Para instalar o correr el porgrama (si cuentas con las dos versiones de python, la mas actualizada y la 3.11) para 
+  iniciar el poryecto es necesario escribir el siguiente comando
+    py -3.11 -m pip install pyrealsense2  
+    py -3.11 -m realsense_face_detection_LIVERECORTER.py 

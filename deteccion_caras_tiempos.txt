@@ -1,0 +1,7 @@
+Cara detectada desde 0.91s hasta 13.86s -> grabaciones/cara_1746767639.avi
+Cara detectada desde 13.88s hasta 14.16s -> grabaciones/cara_1746767652.avi
+Cara detectada desde 15.58s hasta 18.00s -> grabaciones/cara_1746767654.avi
+Cara detectada desde 18.03s hasta 18.08s -> grabaciones/cara_1746767656.avi
+Cara detectada desde 18.13s hasta 18.18s -> grabaciones/cara_1746767656.avi
+Cara detectada desde 18.23s hasta 18.28s -> grabaciones/cara_1746767657.avi
+Cara detectada desde 18.52s hasta 18.61s -> grabaciones/cara_1746767657.avi
